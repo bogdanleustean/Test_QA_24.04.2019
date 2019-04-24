@@ -1,0 +1,11 @@
+Name the difference between agile & v-model. (Please specify some roles and cycles for these)
+
+both are methodologies of SDLC Software development life cycle.
+
+Agile is more used because it's done in sprint's usually 2-4 weeks and the testing is done in paralell with the development
+The core of agile is that the developers and testers work toghether, 
+the client can make changes to the product
+
+V- model  is use for small projects
+
+Scrum Master 
