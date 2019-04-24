@@ -1,0 +1,40 @@
+Consider that you have found a defect in the form for the previous exercise. Create a bug report for it.
+
+
+
+  Pentalog_QA_ test modulul1
+
+Date 	
+24.04.2019
+
+Bug Id	 /                      BL01
+
+Bug Description	             /   greu test
+
+Test case ID	   /     Pentalog_QA01
+
+Detected by                     /     BogdanLeustean 
+
+Product Version	        /   week_4.0
+
+Build Version	/        week_4.0
+
+Priority	 /   S1
+
+Severity	/         P1
+
+Status	/                 New         
+
+Reference	
+Provide Info about the Bug  / i Need More time   
+                                            Enter Pass into field name 
+                                            Enter Pass  Hard
+                                           Click Pass button
+
+
+
+Fixed By 	
+Developer Name
+
+
+

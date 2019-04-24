@@ -1,0 +1,4 @@
+What is regression? What is retesting?
+
+regression are test's that are  a part of the test that need to be done
+retesting is the test that you test'it after you recevided from the developer after first test
