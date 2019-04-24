@@ -1,0 +1,6 @@
+Please state what is black box testing? How about white box testing? You can also give an example.
+
+Both are functional testing.
+black box is the test where the tester dosn't have acces to the code
+white box is the test where the tester have acces to the code
+
